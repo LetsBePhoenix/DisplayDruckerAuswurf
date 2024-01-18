@@ -16,11 +16,11 @@ POKE ("gui.button.add"),"auswurf, 15, 250, 240, 90, Auswurf"
 'Erzeuge alle Texte
 POKE ("fcolor"), 3
 FONT "Swiss, 65"
-TEXT 15, 70, "CLEVER"
+TEXT 15, 70, "FABIAN"
 FONT "Swiss, 62"
 TEXT 15, 66, "________"
 FONT "Swiss, 30"
-TEXT 15, 140, "SYSTEMTECHNIK"
+TEXT 15, 140, "!!HalloWelt!!"
 'Zeige alles an
 POKE "lcd",1
 'Frage loop für die Button-Abfrage
